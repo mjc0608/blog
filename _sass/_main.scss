@@ -168,7 +168,7 @@ main {
 
 @media screen and (max-width: 45rem ) {
 header li {
-    display: inline;
+  display: inline-block;
 	margin-right: 1rem;
 }
 .logo {
@@ -179,19 +179,17 @@ header ul {
 	padding-bottom: 2rem;	
 }
 nav ul {
-    border-right: 0px;
+  border-right: 0px;
 }
 
 .photos ul {
 	margin-top: 0.5rem;
 }
 
-}
-
-@media (max-width: 486px) {
 .hide-small {
   display: none;
 }
+
 }
 
 section {
