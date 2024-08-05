@@ -1,9 +1,15 @@
 links:
-- title: Writing
-  url: /
 - title: About
-  url: /about
-- title: Search
-  url: /search
-- title: Rss
-  url: /atom.xml
+  url: /
+- title: Email
+  url: https://mailhide.io/e/q9oteFCQ
+- title: CV
+  url: /assets/pdf/jiacheng_ma_cv.pdf
+- title: LinkedIn
+  url: https://www.linkedin.com/in/jiacheng-ma-4237b5186/
+- title: Twitter
+  url: https://x.com/mjc0608
+- title: Mastodon
+  url: https://moyu.social/@mjc0608
+- title: 博客
+  url: /blog

@@ -188,6 +188,12 @@ nav ul {
 
 }
 
+@media (max-width: 486px) {
+.hide-small {
+  display: none;
+}
+}
+
 section {
 	flex-basis:0;
 	flex-grow:999;
