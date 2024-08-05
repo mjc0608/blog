@@ -15,7 +15,7 @@ title: About
       <td class="hide-small" style="text-align:center">
         <img style="width:90%;max-width:100%;border-radius:50%" alt="profile photo" src="/assets/image/avatar.jpg">
         <br/>
-        <em>Photo credit to Jiayun Zou.</em>
+        <small><em>Photo credit to Jiayun Zou.</em></small>
       </td>
     </tr>
   </tbody>
