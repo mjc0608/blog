@@ -38,8 +38,8 @@ My research is at the intersection of hardware and software. I am interested in 
 
 生于浙江舟山，上海交大本科，密歇根大学博士。曾是某~~以啤酒命名的~~实验室的最菜选手。现在在超威半导体公司打灰。
 
-不会 Web 前端、不会 Web 后端、不会写 APP、不会机器学习。略懂 C，不会写 C++。会一些 Verilog，略懂虚拟化和操作系统，熟练掌握 Qemu/KVM 的安装和卸载。写过一些论文，在硬件的系统支持和可靠性上做过一些微小的工作。
+~~不会 Web 前端、不会 Web 后端、不会写 APP、不会机器学习。略懂 C，不会写 C++。会一些 Verilog，略懂虚拟化和操作系统，熟练掌握 Qemu/KVM 的安装和卸载。~~写过一些论文，在硬件的系统支持和可靠性上做过一些微小的工作。
 
 [moyu.social](https://moyu.social/) 和 [csstipendrankings.org](https://csstipendrankings.org/) 的主要维护者。
 
-如果你觉得我的文章太过垃圾，或者我太过垃圾，或者对我的研究有兴趣，欢迎邮件骚扰。
+如果你~~觉得我的文章太过垃圾或者我太过垃圾~~对我的研究有兴趣，欢迎邮件骚扰。
